@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ```
 Then run any of four available models (resnet18/50, EfficientNet, DenseNet, InceptionV3) like this:
 ```sh run_resnet.sh```
+
+The data is located at data/healthy and data/sick folders.
