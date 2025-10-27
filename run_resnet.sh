@@ -1,0 +1,1 @@
+python resnet.py --data-dir data --model resnet18 --epochs 30 --plot
